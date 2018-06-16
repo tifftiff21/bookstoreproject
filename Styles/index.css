@@ -83,3 +83,10 @@ nav ul li a:hover {
   transform-origin: left;
   transform: scaleX(1);
  }
+
+ doabout {
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+ }
